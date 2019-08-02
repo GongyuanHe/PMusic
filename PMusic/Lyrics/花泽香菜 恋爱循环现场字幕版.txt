@@ -1,0 +1,62 @@
+[length:04:18.74]
+[re:www.megalobiz.com/lrc/maker]
+[ve:v1.2.3]
+[00:02.45]se-no
+[00:04.94]de mo son nan jia da-me
+[00:08.69]mou son nan jia ho-ra
+[00:10.69]ko ko ro wa shin ga su ru yo mo-tto mo-too
+[00:30.45]ko to ba ni su re wa ki e chia u kan kai na ra
+[00:33.15]ko to ba uo ki se wa ii ya tte
+[00:34.87]o mo tte ta o su re te ta
+[00:36.87]da ke do a re nan ka qi ka u ka mo
+[00:38.84]sen ri no mi qi mo i bu ka ra
+[00:40.83]ji shi no yo u ni ga ta i son na i shi de
+[00:43.08]qi ni mo tsu mo re ba ya ma to na de shi ko
+[00:45.08]shi-nu ki de shi nu ki de
+[00:46.79]fu wa fu wa ri fu wa fu wa ru
+[00:50.04]a na ta ga na mai uo yo bu
+[00:52.01]so re da ke de jiyu he u ka bu
+[00:55.01]fu wa fu wa ru fu wa fu wa ri
+[00:58.01]a na ta ga wa ra tee i ru
+[00:59.96]so re da ke de e ga uo ni na ru
+[01:02.96]ka mi sa ma a ri ga to u unnmei no i da tsu wa de mo
+[01:10.71]me gu ri a e ta ko to ga shi a wa se na no
+[01:18.43]de mo son nan jia da-me
+[01:20.69]mou son nan jia ho-ra
+[01:22.67]ko ko ro wa shin ga su ru yo mo-tto mo-too
+[01:26.93]so u son nan jia iya-da
+[01:28.69]ne e son nan jia ma-da
+[01:30.69]wa ta shi no ko to mi te i te ne tsu-tto tsu-tto
+[01:50.68]wa ta shi no na ka no a na ta ho do
+[01:52.68]a na ta no na ka no wa ta shi no zai wa ma da ma da
+[01:55.88]ou ki ku na i ko to mo
+[01:57.60]wa ka tte ru ke re do
+[01:58.81]i ma ko no on na ji syun kan kyou you shi te ru ji kkan
+[02:02.81]ti ri mo tu mo re ba ya ma to na de shi ko
+[02:05.03]rya ku shi te ti ri tu mo ya ma to na de ko
+[02:07.28]ku ra ku ra ri ku ra ku ra ru
+[02:09.76]a na ta wo mi a ge ta ra
+[02:11.98]so re da ke de ma bu shi su gi te
+[02:14.97]ku ra ku ra ru ku ra ku ra ri
+[02:17.72]a na ta wo o mo tte i ru
+[02:19.97]so re da ke de to ke te si ma u
+[02:22.97]ka mi sa ma a ri ga to u unmei no i da tsu wa de mo
+[02:30.72]me gu ri a e ta ko to ga shi a wa se na no
+[02:38.72]koisuru kisetsu wa yokubari sa-kya re-syun
+[02:46.97]koisuru kimochi wa yokubari sa-kya re-syun
+[02:54.97]koisuru hitomi wa yokubari sa-kya re-syun
+[03:02.97]koisuru otome wa yokubari sa-kya re-syun
+[03:12.94]fu wa fu wa ri fu wa fu wa ru
+[03:15.94]a na ta ga na mai uo yo bu
+[03:17.94]so re da ke de jiyu he u ka bu
+[03:20.94]fu wa fu wa ru fu wa fu wa ri
+[03:23.93]a na ta ga wa ra tee i ru
+[03:25.94]so re da ke de e ga uo ni na ru
+[03:29.18]ka mi sa ma a ri ga to u unnmei no i da tsu wa de mo
+[03:36.90]me gu ri a e ta ko to ga shi a wa se na no
+[04:00.64]de mo son nan ja da-me
+[04:02.90]mou son nan jia ho-ra
+[04:04.90]ko ko ro wa shin ga su ru yo mo-tto
+[04:08.89]so u son nan jia iya-da
+[04:10.89]ne e son nan ja ma-da
+[04:12.90]wa ta shi no ko to mi te i te ne tsu-tto tsu-tto

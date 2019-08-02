@@ -7,15 +7,60 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E6E50CC22813B5700121491 /* CHD李榮浩 不將就MV電影何以笙簫默片尾曲版博馬娛樂城.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4E6E50CA22813B5600121491 /* CHD李榮浩 不將就MV電影何以笙簫默片尾曲版博馬娛樂城.txt */; };
+		4E6E50CD22813B5700121491 /* Supersonic Rocketship Avengers Endgame Official Soundtrack.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4E6E50CB22813B5600121491 /* Supersonic Rocketship Avengers Endgame Official Soundtrack.txt */; };
+		4E6E50D022813B6300121491 /* Supersonic Rocketship Avengers Endgame Official Soundtrack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6E50CE22813B6300121491 /* Supersonic Rocketship Avengers Endgame Official Soundtrack.mp3 */; };
+		4E6E50D122813B6300121491 /* CHD李榮浩 不將就MV電影何以笙簫默片尾曲版博馬娛樂城.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6E50CF22813B6300121491 /* CHD李榮浩 不將就MV電影何以笙簫默片尾曲版博馬娛樂城.mp3 */; };
+		4E6E50D3229D58E300121491 /* 花泽香菜 恋爱循环现场字幕版.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6E50D2229D58E300121491 /* 花泽香菜 恋爱循环现场字幕版.mp3 */; };
+		4E6E50D5229D58E900121491 /* 花泽香菜 恋爱循环现场字幕版.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4E6E50D4229D58E900121491 /* 花泽香菜 恋爱循环现场字幕版.txt */; };
 		4EA66F5B226ED4CD00451A0E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA66F5A226ED4CD00451A0E /* AppDelegate.swift */; };
 		4EA66F5D226ED4CE00451A0E /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA66F5C226ED4CE00451A0E /* FirstViewController.swift */; };
 		4EA66F5F226ED4CE00451A0E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA66F5E226ED4CE00451A0E /* SecondViewController.swift */; };
 		4EA66F62226ED4CE00451A0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EA66F60226ED4CE00451A0E /* Main.storyboard */; };
 		4EA66F64226ED4CF00451A0E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EA66F63226ED4CF00451A0E /* Assets.xcassets */; };
 		4EA66F67226ED4CF00451A0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EA66F65226ED4CF00451A0E /* LaunchScreen.storyboard */; };
+		4EA66F72226F4C1300451A0E /* Charlie Puth - We Don't Talk Anymore.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4EA66F6F226F4C1300451A0E /* Charlie Puth - We Don't Talk Anymore.mp3 */; };
+		4EA66F73226F4C1300451A0E /* DAOKO 米津玄師 - 打上花火.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4EA66F70226F4C1300451A0E /* DAOKO 米津玄師 - 打上花火.mp3 */; };
+		4EA66F74226F4C1300451A0E /* John Legend - All of Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4EA66F71226F4C1300451A0E /* John Legend - All of Me.mp3 */; };
+		4EA66F8C226FF5AE00451A0E /* Charlie Puth - We Don't Talk Anymore.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4EA66F8B226FF5AD00451A0E /* Charlie Puth - We Don't Talk Anymore.txt */; };
+		4ED79EB22270E9EC003A3BED /* DAOKO 米津玄師 - 打上花火.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EB12270E9EC003A3BED /* DAOKO 米津玄師 - 打上花火.txt */; };
+		4ED79EB42270EA1B003A3BED /* John Legend - All of Me.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EB32270EA1B003A3BED /* John Legend - All of Me.txt */; };
+		4ED79EB62270FF92003A3BED /* Utilites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED79EB52270FF92003A3BED /* Utilites.swift */; };
+		4ED79EBC227177B7003A3BED /* 周杰伦 - 开不了口.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EB7227177B4003A3BED /* 周杰伦 - 开不了口.mp3 */; };
+		4ED79EBD227177B7003A3BED /* 周杰伦 - 我不配.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EB8227177B4003A3BED /* 周杰伦 - 我不配.mp3 */; };
+		4ED79EBE227177B7003A3BED /* 周杰伦 - 一路向北.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EB9227177B5003A3BED /* 周杰伦 - 一路向北.mp3 */; };
+		4ED79EBF227177B7003A3BED /* 周杰伦 - 彩虹.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EBA227177B6003A3BED /* 周杰伦 - 彩虹.mp3 */; };
+		4ED79EC0227177B7003A3BED /* 周杰伦 - 心雨.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EBB227177B6003A3BED /* 周杰伦 - 心雨.mp3 */; };
+		4ED79EC62271781E003A3BED /* 周杰伦 - 我不配.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EC12271781E003A3BED /* 周杰伦 - 我不配.txt */; };
+		4ED79EC72271781E003A3BED /* 周杰伦 - 一路向北.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EC22271781E003A3BED /* 周杰伦 - 一路向北.txt */; };
+		4ED79EC82271781E003A3BED /* 周杰伦 - 心雨.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EC32271781E003A3BED /* 周杰伦 - 心雨.txt */; };
+		4ED79EC92271781E003A3BED /* 周杰伦 - 开不了口.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EC42271781E003A3BED /* 周杰伦 - 开不了口.txt */; };
+		4ED79ECA2271781E003A3BED /* 周杰伦 - 彩虹.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EC52271781E003A3BED /* 周杰伦 - 彩虹.txt */; };
+		4ED79ECF2272A5AF003A3BED /* 米津玄師 MVLemon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79ECB2272A5AE003A3BED /* 米津玄師 MVLemon.mp3 */; };
+		4ED79ED02272A5AF003A3BED /* 周杰伦 - 黑色毛衣.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79ECC2272A5AE003A3BED /* 周杰伦 - 黑色毛衣.mp3 */; };
+		4ED79ED12272A5AF003A3BED /* 周杰伦 - 退后.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79ECD2272A5AF003A3BED /* 周杰伦 - 退后.mp3 */; };
+		4ED79ED22272A5AF003A3BED /* 周杰伦 - 青花瓷.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79ECE2272A5AF003A3BED /* 周杰伦 - 青花瓷.mp3 */; };
+		4ED79EDF2272A61D003A3BED /* 周杰伦 - 黑色毛衣.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EDB2272A61C003A3BED /* 周杰伦 - 黑色毛衣.txt */; };
+		4ED79EE02272A61D003A3BED /* 米津玄師 MVLemon.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EDC2272A61D003A3BED /* 米津玄師 MVLemon.txt */; };
+		4ED79EE12272A61D003A3BED /* 周杰伦 - 青花瓷.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EDD2272A61D003A3BED /* 周杰伦 - 青花瓷.txt */; };
+		4ED79EE22272A61D003A3BED /* 周杰伦 - 退后.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EDE2272A61D003A3BED /* 周杰伦 - 退后.txt */; };
+		4ED79EE522741615003A3BED /* I'm Yours - Jason Mraz Lyrics.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EE322741613003A3BED /* I'm Yours - Jason Mraz Lyrics.mp3 */; };
+		4ED79EE622741615003A3BED /* secret base _君がくれたもの_ (10 years after Ver.).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EE422741614003A3BED /* secret base _君がくれたもの_ (10 years after Ver.).mp3 */; };
+		4ED79EE922741634003A3BED /* secret base _君がくれたもの_ (10 years after Ver.).txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EE722741634003A3BED /* secret base _君がくれたもの_ (10 years after Ver.).txt */; };
+		4ED79EEA22741634003A3BED /* I'm Yours - Jason Mraz Lyrics.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EE822741634003A3BED /* I'm Yours - Jason Mraz Lyrics.txt */; };
+		4ED79EED22795DE8003A3BED /* Safe & Sound feat. The Civil Wars (The Hunger Games Songs From District 12 And Beyond).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EEB22795DE8003A3BED /* Safe & Sound feat. The Civil Wars (The Hunger Games Songs From District 12 And Beyond).mp3 */; };
+		4ED79EEE22795DE8003A3BED /* 阿桑 - 一直很安静.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EEC22795DE8003A3BED /* 阿桑 - 一直很安静.mp3 */; };
+		4ED79EF122795DF6003A3BED /* 阿桑 - 一直很安静.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EEF22795DF6003A3BED /* 阿桑 - 一直很安静.txt */; };
+		4ED79EF222795DF6003A3BED /* Safe & Sound feat. The Civil Wars (The Hunger Games Songs From District 12 And Beyond).txt in Resources */ = {isa = PBXBuildFile; fileRef = 4ED79EF022795DF6003A3BED /* Safe & Sound feat. The Civil Wars (The Hunger Games Songs From District 12 And Beyond).txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4E6E50CA22813B5600121491 /* CHD李榮浩 不將就MV電影何以笙簫默片尾曲版博馬娛樂城.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CHD李榮浩 不將就MV電影何以笙簫默片尾曲版博馬娛樂城.txt"; sourceTree = "<group>"; };
+		4E6E50CB22813B5600121491 /* Supersonic Rocketship Avengers Endgame Official Soundtrack.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Supersonic Rocketship Avengers Endgame Official Soundtrack.txt"; sourceTree = "<group>"; };
+		4E6E50CE22813B6300121491 /* Supersonic Rocketship Avengers Endgame Official Soundtrack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Supersonic Rocketship Avengers Endgame Official Soundtrack.mp3"; sourceTree = "<group>"; };
+		4E6E50CF22813B6300121491 /* CHD李榮浩 不將就MV電影何以笙簫默片尾曲版博馬娛樂城.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "CHD李榮浩 不將就MV電影何以笙簫默片尾曲版博馬娛樂城.mp3"; sourceTree = "<group>"; };
+		4E6E50D2229D58E300121491 /* 花泽香菜 恋爱循环现场字幕版.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "花泽香菜 恋爱循环现场字幕版.mp3"; sourceTree = "<group>"; };
+		4E6E50D4229D58E900121491 /* 花泽香菜 恋爱循环现场字幕版.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "花泽香菜 恋爱循环现场字幕版.txt"; sourceTree = "<group>"; };
 		4EA66F57226ED4CD00451A0E /* PMusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PMusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EA66F5A226ED4CD00451A0E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4EA66F5C226ED4CE00451A0E /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +69,39 @@
 		4EA66F63226ED4CF00451A0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4EA66F66226ED4CF00451A0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4EA66F68226ED4CF00451A0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EA66F6F226F4C1300451A0E /* Charlie Puth - We Don't Talk Anymore.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Charlie Puth - We Don't Talk Anymore.mp3"; sourceTree = "<group>"; };
+		4EA66F70226F4C1300451A0E /* DAOKO 米津玄師 - 打上花火.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "DAOKO 米津玄師 - 打上花火.mp3"; sourceTree = "<group>"; };
+		4EA66F71226F4C1300451A0E /* John Legend - All of Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "John Legend - All of Me.mp3"; sourceTree = "<group>"; };
+		4EA66F8B226FF5AD00451A0E /* Charlie Puth - We Don't Talk Anymore.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Charlie Puth - We Don't Talk Anymore.txt"; sourceTree = "<group>"; };
+		4ED79EB12270E9EC003A3BED /* DAOKO 米津玄師 - 打上花火.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "DAOKO 米津玄師 - 打上花火.txt"; sourceTree = "<group>"; };
+		4ED79EB32270EA1B003A3BED /* John Legend - All of Me.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "John Legend - All of Me.txt"; sourceTree = "<group>"; };
+		4ED79EB52270FF92003A3BED /* Utilites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilites.swift; sourceTree = "<group>"; };
+		4ED79EB7227177B4003A3BED /* 周杰伦 - 开不了口.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "周杰伦 - 开不了口.mp3"; sourceTree = "<group>"; };
+		4ED79EB8227177B4003A3BED /* 周杰伦 - 我不配.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "周杰伦 - 我不配.mp3"; sourceTree = "<group>"; };
+		4ED79EB9227177B5003A3BED /* 周杰伦 - 一路向北.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "周杰伦 - 一路向北.mp3"; sourceTree = "<group>"; };
+		4ED79EBA227177B6003A3BED /* 周杰伦 - 彩虹.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "周杰伦 - 彩虹.mp3"; sourceTree = "<group>"; };
+		4ED79EBB227177B6003A3BED /* 周杰伦 - 心雨.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "周杰伦 - 心雨.mp3"; sourceTree = "<group>"; };
+		4ED79EC12271781E003A3BED /* 周杰伦 - 我不配.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "周杰伦 - 我不配.txt"; sourceTree = "<group>"; };
+		4ED79EC22271781E003A3BED /* 周杰伦 - 一路向北.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "周杰伦 - 一路向北.txt"; sourceTree = "<group>"; };
+		4ED79EC32271781E003A3BED /* 周杰伦 - 心雨.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "周杰伦 - 心雨.txt"; sourceTree = "<group>"; };
+		4ED79EC42271781E003A3BED /* 周杰伦 - 开不了口.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "周杰伦 - 开不了口.txt"; sourceTree = "<group>"; };
+		4ED79EC52271781E003A3BED /* 周杰伦 - 彩虹.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "周杰伦 - 彩虹.txt"; sourceTree = "<group>"; };
+		4ED79ECB2272A5AE003A3BED /* 米津玄師 MVLemon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "米津玄師 MVLemon.mp3"; sourceTree = "<group>"; };
+		4ED79ECC2272A5AE003A3BED /* 周杰伦 - 黑色毛衣.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "周杰伦 - 黑色毛衣.mp3"; sourceTree = "<group>"; };
+		4ED79ECD2272A5AF003A3BED /* 周杰伦 - 退后.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "周杰伦 - 退后.mp3"; sourceTree = "<group>"; };
+		4ED79ECE2272A5AF003A3BED /* 周杰伦 - 青花瓷.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "周杰伦 - 青花瓷.mp3"; sourceTree = "<group>"; };
+		4ED79EDB2272A61C003A3BED /* 周杰伦 - 黑色毛衣.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "周杰伦 - 黑色毛衣.txt"; sourceTree = "<group>"; };
+		4ED79EDC2272A61D003A3BED /* 米津玄師 MVLemon.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "米津玄師 MVLemon.txt"; sourceTree = "<group>"; };
+		4ED79EDD2272A61D003A3BED /* 周杰伦 - 青花瓷.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "周杰伦 - 青花瓷.txt"; sourceTree = "<group>"; };
+		4ED79EDE2272A61D003A3BED /* 周杰伦 - 退后.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "周杰伦 - 退后.txt"; sourceTree = "<group>"; };
+		4ED79EE322741613003A3BED /* I'm Yours - Jason Mraz Lyrics.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I'm Yours - Jason Mraz Lyrics.mp3"; sourceTree = "<group>"; };
+		4ED79EE422741614003A3BED /* secret base _君がくれたもの_ (10 years after Ver.).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "secret base _君がくれたもの_ (10 years after Ver.).mp3"; sourceTree = "<group>"; };
+		4ED79EE722741634003A3BED /* secret base _君がくれたもの_ (10 years after Ver.).txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "secret base _君がくれたもの_ (10 years after Ver.).txt"; sourceTree = "<group>"; };
+		4ED79EE822741634003A3BED /* I'm Yours - Jason Mraz Lyrics.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "I'm Yours - Jason Mraz Lyrics.txt"; sourceTree = "<group>"; };
+		4ED79EEB22795DE8003A3BED /* Safe & Sound feat. The Civil Wars (The Hunger Games Songs From District 12 And Beyond).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Safe & Sound feat. The Civil Wars (The Hunger Games Songs From District 12 And Beyond).mp3"; sourceTree = "<group>"; };
+		4ED79EEC22795DE8003A3BED /* 阿桑 - 一直很安静.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "阿桑 - 一直很安静.mp3"; sourceTree = "<group>"; };
+		4ED79EEF22795DF6003A3BED /* 阿桑 - 一直很安静.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "阿桑 - 一直很安静.txt"; sourceTree = "<group>"; };
+		4ED79EF022795DF6003A3BED /* Safe & Sound feat. The Civil Wars (The Hunger Games Songs From District 12 And Beyond).txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Safe & Sound feat. The Civil Wars (The Hunger Games Songs From District 12 And Beyond).txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +141,63 @@
 				4EA66F63226ED4CF00451A0E /* Assets.xcassets */,
 				4EA66F65226ED4CF00451A0E /* LaunchScreen.storyboard */,
 				4EA66F68226ED4CF00451A0E /* Info.plist */,
+				4EA66F8A226FF5AD00451A0E /* Lyrics */,
+				4EA66F6E226F4C1300451A0E /* Songs */,
+				4ED79EB52270FF92003A3BED /* Utilites.swift */,
 			);
 			path = PMusic;
+			sourceTree = "<group>";
+		};
+		4EA66F6E226F4C1300451A0E /* Songs */ = {
+			isa = PBXGroup;
+			children = (
+				4E6E50D2229D58E300121491 /* 花泽香菜 恋爱循环现场字幕版.mp3 */,
+				4E6E50CF22813B6300121491 /* CHD李榮浩 不將就MV電影何以笙簫默片尾曲版博馬娛樂城.mp3 */,
+				4E6E50CE22813B6300121491 /* Supersonic Rocketship Avengers Endgame Official Soundtrack.mp3 */,
+				4ED79EEB22795DE8003A3BED /* Safe & Sound feat. The Civil Wars (The Hunger Games Songs From District 12 And Beyond).mp3 */,
+				4ED79EEC22795DE8003A3BED /* 阿桑 - 一直很安静.mp3 */,
+				4ED79EE322741613003A3BED /* I'm Yours - Jason Mraz Lyrics.mp3 */,
+				4ED79EE422741614003A3BED /* secret base _君がくれたもの_ (10 years after Ver.).mp3 */,
+				4ED79ECD2272A5AF003A3BED /* 周杰伦 - 退后.mp3 */,
+				4ED79ECE2272A5AF003A3BED /* 周杰伦 - 青花瓷.mp3 */,
+				4ED79ECC2272A5AE003A3BED /* 周杰伦 - 黑色毛衣.mp3 */,
+				4ED79ECB2272A5AE003A3BED /* 米津玄師 MVLemon.mp3 */,
+				4ED79EB9227177B5003A3BED /* 周杰伦 - 一路向北.mp3 */,
+				4ED79EB7227177B4003A3BED /* 周杰伦 - 开不了口.mp3 */,
+				4ED79EBA227177B6003A3BED /* 周杰伦 - 彩虹.mp3 */,
+				4ED79EBB227177B6003A3BED /* 周杰伦 - 心雨.mp3 */,
+				4ED79EB8227177B4003A3BED /* 周杰伦 - 我不配.mp3 */,
+				4EA66F6F226F4C1300451A0E /* Charlie Puth - We Don't Talk Anymore.mp3 */,
+				4EA66F70226F4C1300451A0E /* DAOKO 米津玄師 - 打上花火.mp3 */,
+				4EA66F71226F4C1300451A0E /* John Legend - All of Me.mp3 */,
+			);
+			path = Songs;
+			sourceTree = "<group>";
+		};
+		4EA66F8A226FF5AD00451A0E /* Lyrics */ = {
+			isa = PBXGroup;
+			children = (
+				4E6E50D4229D58E900121491 /* 花泽香菜 恋爱循环现场字幕版.txt */,
+				4E6E50CA22813B5600121491 /* CHD李榮浩 不將就MV電影何以笙簫默片尾曲版博馬娛樂城.txt */,
+				4E6E50CB22813B5600121491 /* Supersonic Rocketship Avengers Endgame Official Soundtrack.txt */,
+				4ED79EF022795DF6003A3BED /* Safe & Sound feat. The Civil Wars (The Hunger Games Songs From District 12 And Beyond).txt */,
+				4ED79EEF22795DF6003A3BED /* 阿桑 - 一直很安静.txt */,
+				4ED79EE822741634003A3BED /* I'm Yours - Jason Mraz Lyrics.txt */,
+				4ED79EE722741634003A3BED /* secret base _君がくれたもの_ (10 years after Ver.).txt */,
+				4ED79EDE2272A61D003A3BED /* 周杰伦 - 退后.txt */,
+				4ED79EDD2272A61D003A3BED /* 周杰伦 - 青花瓷.txt */,
+				4ED79EDB2272A61C003A3BED /* 周杰伦 - 黑色毛衣.txt */,
+				4ED79EDC2272A61D003A3BED /* 米津玄師 MVLemon.txt */,
+				4ED79EC22271781E003A3BED /* 周杰伦 - 一路向北.txt */,
+				4ED79EC42271781E003A3BED /* 周杰伦 - 开不了口.txt */,
+				4ED79EC52271781E003A3BED /* 周杰伦 - 彩虹.txt */,
+				4ED79EC32271781E003A3BED /* 周杰伦 - 心雨.txt */,
+				4ED79EC12271781E003A3BED /* 周杰伦 - 我不配.txt */,
+				4EA66F8B226FF5AD00451A0E /* Charlie Puth - We Don't Talk Anymore.txt */,
+				4ED79EB12270E9EC003A3BED /* DAOKO 米津玄師 - 打上花火.txt */,
+				4ED79EB32270EA1B003A3BED /* John Legend - All of Me.txt */,
+			);
+			path = Lyrics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +258,47 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4ED79EE02272A61D003A3BED /* 米津玄師 MVLemon.txt in Resources */,
+				4EA66F74226F4C1300451A0E /* John Legend - All of Me.mp3 in Resources */,
+				4ED79EE522741615003A3BED /* I'm Yours - Jason Mraz Lyrics.mp3 in Resources */,
+				4EA66F8C226FF5AE00451A0E /* Charlie Puth - We Don't Talk Anymore.txt in Resources */,
+				4ED79EBE227177B7003A3BED /* 周杰伦 - 一路向北.mp3 in Resources */,
 				4EA66F67226ED4CF00451A0E /* LaunchScreen.storyboard in Resources */,
+				4ED79EEA22741634003A3BED /* I'm Yours - Jason Mraz Lyrics.txt in Resources */,
+				4ED79EC0227177B7003A3BED /* 周杰伦 - 心雨.mp3 in Resources */,
+				4ED79ECA2271781E003A3BED /* 周杰伦 - 彩虹.txt in Resources */,
+				4ED79EF122795DF6003A3BED /* 阿桑 - 一直很安静.txt in Resources */,
 				4EA66F64226ED4CF00451A0E /* Assets.xcassets in Resources */,
+				4ED79EE12272A61D003A3BED /* 周杰伦 - 青花瓷.txt in Resources */,
+				4E6E50CC22813B5700121491 /* CHD李榮浩 不將就MV電影何以笙簫默片尾曲版博馬娛樂城.txt in Resources */,
+				4ED79ECF2272A5AF003A3BED /* 米津玄師 MVLemon.mp3 in Resources */,
+				4E6E50D3229D58E300121491 /* 花泽香菜 恋爱循环现场字幕版.mp3 in Resources */,
+				4ED79EED22795DE8003A3BED /* Safe & Sound feat. The Civil Wars (The Hunger Games Songs From District 12 And Beyond).mp3 in Resources */,
+				4ED79EC62271781E003A3BED /* 周杰伦 - 我不配.txt in Resources */,
+				4ED79EB22270E9EC003A3BED /* DAOKO 米津玄師 - 打上花火.txt in Resources */,
+				4ED79EF222795DF6003A3BED /* Safe & Sound feat. The Civil Wars (The Hunger Games Songs From District 12 And Beyond).txt in Resources */,
+				4ED79EC72271781E003A3BED /* 周杰伦 - 一路向北.txt in Resources */,
+				4ED79EBC227177B7003A3BED /* 周杰伦 - 开不了口.mp3 in Resources */,
+				4EA66F72226F4C1300451A0E /* Charlie Puth - We Don't Talk Anymore.mp3 in Resources */,
+				4EA66F73226F4C1300451A0E /* DAOKO 米津玄師 - 打上花火.mp3 in Resources */,
+				4E6E50D122813B6300121491 /* CHD李榮浩 不將就MV電影何以笙簫默片尾曲版博馬娛樂城.mp3 in Resources */,
 				4EA66F62226ED4CE00451A0E /* Main.storyboard in Resources */,
+				4ED79EBD227177B7003A3BED /* 周杰伦 - 我不配.mp3 in Resources */,
+				4ED79EE922741634003A3BED /* secret base _君がくれたもの_ (10 years after Ver.).txt in Resources */,
+				4ED79EDF2272A61D003A3BED /* 周杰伦 - 黑色毛衣.txt in Resources */,
+				4E6E50D022813B6300121491 /* Supersonic Rocketship Avengers Endgame Official Soundtrack.mp3 in Resources */,
+				4ED79EC82271781E003A3BED /* 周杰伦 - 心雨.txt in Resources */,
+				4ED79EC92271781E003A3BED /* 周杰伦 - 开不了口.txt in Resources */,
+				4ED79EE22272A61D003A3BED /* 周杰伦 - 退后.txt in Resources */,
+				4ED79ED22272A5AF003A3BED /* 周杰伦 - 青花瓷.mp3 in Resources */,
+				4E6E50CD22813B5700121491 /* Supersonic Rocketship Avengers Endgame Official Soundtrack.txt in Resources */,
+				4ED79EEE22795DE8003A3BED /* 阿桑 - 一直很安静.mp3 in Resources */,
+				4ED79EB42270EA1B003A3BED /* John Legend - All of Me.txt in Resources */,
+				4ED79EE622741615003A3BED /* secret base _君がくれたもの_ (10 years after Ver.).mp3 in Resources */,
+				4ED79EBF227177B7003A3BED /* 周杰伦 - 彩虹.mp3 in Resources */,
+				4ED79ED02272A5AF003A3BED /* 周杰伦 - 黑色毛衣.mp3 in Resources */,
+				4E6E50D5229D58E900121491 /* 花泽香菜 恋爱循环现场字幕版.txt in Resources */,
+				4ED79ED12272A5AF003A3BED /* 周杰伦 - 退后.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +309,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4ED79EB62270FF92003A3BED /* Utilites.swift in Sources */,
 				4EA66F5F226ED4CE00451A0E /* SecondViewController.swift in Sources */,
 				4EA66F5B226ED4CD00451A0E /* AppDelegate.swift in Sources */,
 				4EA66F5D226ED4CE00451A0E /* FirstViewController.swift in Sources */,
@@ -287,7 +459,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = LKQ9TY6BAJ;
 				INFOPLIST_FILE = PMusic/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -295,7 +469,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ParkerHe.PMusic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -304,7 +478,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = LKQ9TY6BAJ;
 				INFOPLIST_FILE = PMusic/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -312,7 +488,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ParkerHe.PMusic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
